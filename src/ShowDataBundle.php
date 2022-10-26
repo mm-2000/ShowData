@@ -1,5 +1,5 @@
 <?php
-namespace ShowDataBundle;
+namespace Mm2000\ShowDataBundle\ShowDataBundle;
 
 use Symfony\Component\HttpKernel\Bundle\AbstractBundle;
 
