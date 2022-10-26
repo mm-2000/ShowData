@@ -1,9 +1,9 @@
 <?php
-namespace Mm2000\Bundle\TestBundle;
+namespace Mm2000\Bundle\ShowDataBundle;
 
 use Symfony\Component\HttpKernel\Bundle\AbstractBundle;
 
-class TestBundle extends AbstractBundle
+class ShowDataBundle extends AbstractBundle
 {
 
     public function getVersion()

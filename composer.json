@@ -1,13 +1,15 @@
 {
-    "name": "mm-2000/test-bundle",
-    "description": "Test bundle",
+    "name": "mm-2000/show-data",
+    "description": "Show data",
     "type": "symfony-bundle",
     "license": "MIT",
     "autoload": {
         "psr-4": {
-            "Mm2000\\TestBundle\\": "src/"
+            "Mm2000\\ShowDataBundle\\": "src/"
         }
     },
     "minimum-stability": "dev",
-    "require": {}
+    "require": {
+        "laravel/framework": "^6.0"
+    }
 }
