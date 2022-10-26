@@ -1,0 +1,13 @@
+{
+    "name": "mm-2000/test-bundle",
+    "description": "Test bundle",
+    "type": "symfony-bundle",
+    "license": "MIT",
+    "autoload": {
+        "psr-4": {
+            "Mm2000\\TestBundle\\": "src/"
+        }
+    },
+    "minimum-stability": "dev",
+    "require": {}
+}
